@@ -41,7 +41,9 @@ if __name__ == '__main__':
         with open('output.txt','w') as f:
             f.write(txt)
 ......................................................................................................................................................
-# os and sys
+知识点
+# 1 os and sys
+链接: https://www.cnblogs.com/big-devil/p/7625910.html
 os: This module provides a portable way of using operating system dependent functionality.
 sys: This module provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter
 总结：
@@ -89,3 +91,5 @@ sys.byteorder 本地字节规则的指示器，big-endian平台的值是'big',li
 sys.copyright 记录python版权相关的东西
 sys.api_version 解释器的C的API版本
 sys.stdin,sys.stdout,sys.stderr
+#2 pillow库
+链接：https://www.cnblogs.com/apexchu/p/4231041.html
