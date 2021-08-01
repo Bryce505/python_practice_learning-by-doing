@@ -9,6 +9,7 @@ res.raise_for_status()
 
 #Retrieve top search result links
 soup=bs4.BeautifulSoup(res.text, features="html.parser")
+#CSS选择器
 link_elems = soup.select('div>h2>a[target="_blank"]')
 numOpen = min(5, len(link_elems))
 for i in range(numOpen):
