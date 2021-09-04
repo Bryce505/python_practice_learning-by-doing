@@ -62,6 +62,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/logo/foryou.gif
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
+![cmd](imageCache/屏幕截图 2021-08-24 123013.png "截图")
+
 链接
 ----
 ### 链接外部URL
