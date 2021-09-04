@@ -64,9 +64,12 @@ https://github.com/guodongxiaren/ImageCache/raw/master/logo/foryou.gif
 
 ![cmd](imageCache/屏幕截图 2021-08-24 123013.png "截图")
 ![](https://github.com/Bryce505/python_practice_learning-by-doing/blob/e3cbb3339208755ef6d4cc6b55b5eaa315f5f913/imageCache/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-08-24%20123013.png "截图")
+![cmd](imageCache/1.jpg "截图")
+![pd-1](https://tse4-mm.cn.bing.net/th/id/OIP-C.ShebZQI1IPWfnc1mz4KRvAHaFj?pid=ImgDet&rs=1 "zhongliumianyi")
 
 链接
 ----
 ### 链接外部URL
 |#|语法|效果|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的微博](https://mubu.com/app/edit/home/11na7ejULr4 "我的幕布")|
+|---|---|---|
+|1|`[我的幕布](https://mubu.com/app/edit/home/11na7ejULr4 "悬停显示")`|[我的幕布](https://mubu.com/app/edit/home/11na7ejULr4 "幕布")|
